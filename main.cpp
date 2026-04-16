@@ -2,10 +2,13 @@
 using namespace std;
 
 int main() {
-string myName = "John";
-int myAge = 30;
-double myHeight = 6.1;
+int a, b;
 
-cout <<"my name is" <<myName <<"I am" <<myAge <<"years old and my height is" <<myHeight <<" feet.";
+int a = 10; //a is the length of the rectangle
+int b = 5; // b is the width of the rectangle
+
+//area of rectangle
+int area a * b;
+cout <<"a" <<a <<"b" <<b <<"area" <<area;
 return 0;
 }
